@@ -1,0 +1,58 @@
+/* ---- General Styles ---- */L
+html{
+   scroll-behavior:smooth;
+}
+body {
+    margin: 0%;
+    font-family: Arial, sans-serif;
+    background: white;
+    width:78%;
+    font-size: x-large;
+}
+a:visited{
+    background-color: chartreuse;
+}
+header {
+    background: #333;
+    font-size: xx-large;
+    color: #fff;
+    padding: 8%;
+    text-align: center;
+    width: 115%;
+}
+header.A{
+    background-color: blue;
+    font-size: xx-large;
+}
+nav {
+    background: #444;
+    padding: 1%;
+    text-align: center;
+    width: 129%;
+}
+nav a {
+    color: ghostwhite;
+    margin: 0 1%;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    color: #00bcd4;
+}
+.container {
+    width: 110%;
+    margin-left: 10%;
+    background: white;
+    padding: 1%;
+    border-radius: 1%;
+    border: #333 solid;
+}
+footer {
+    background: green;
+    color: whitesmoke;
+    font-size: x-large;
+    text-align: center;
+    padding: 3%;
+    margin-top: 3%;
+    width: 125%;
+}
